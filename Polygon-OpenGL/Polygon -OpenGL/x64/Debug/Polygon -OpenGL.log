@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\user\source\repos\Polygon -OpenGL\Main.cpp(206,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-  Polygon -OpenGL.vcxproj -> C:\Users\user\source\repos\Polygon -OpenGL\x64\Debug\Polygon -OpenGL.exe

@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\user\Documents\200 LVL - 2nd Semester\PAU CSC 212\Project\OpenGL-Project\OpenGL_Project\Main.cpp(206,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OpenGL_Project.vcxproj -> C:\Users\user\Documents\200 LVL - 2nd Semester\PAU CSC 212\Project\OpenGL-Project\OpenGL_Project\x64\Debug\OpenGL_Project.exe
